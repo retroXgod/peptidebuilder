@@ -1,171 +1,626 @@
 [
   {
-    "slug": "bpc-157-5mg",
-    "name": "BPC-157",
-    "form": "5mg vial",
-    "category": "Regenerative",
-    "goal": "Recovery",
-    "description": "Promotes healing of muscles, tendons, and ligaments. Research use only.",
-    "detailedDescription": "BPC-157 is a synthetic peptide that promotes healing and regeneration of various tissues including muscles, tendons, and ligaments. It has been shown to accelerate the healing of wounds and injuries in research studies.",
-    "recommendedDoseMcg": 250,
-    "vialVolumeMg": 5,
-    "priceUsd": 39.99,
-    "dosingLogic": "Standard research dose is 250mcg per day. Dosage may vary based on research protocol and body weight."
+    "slug": "10-oral-syringes",
+    "name": "10 Oral Syringes",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 8.99
   },
   {
-    "slug": "tb-500-5mg",
-    "name": "TB-500",
-    "form": "5mg vial",
-    "category": "Recovery",
-    "goal": "Recovery",
-    "description": "Supports tissue regeneration and reduces inflammation. Research use only.",
-    "detailedDescription": "TB-500 is a synthetic version of thymosin beta-4, a naturally occurring peptide that promotes tissue regeneration and reduces inflammation. It has been studied for its potential in wound healing and tissue repair.",
-    "recommendedDoseMcg": 2000,
-    "vialVolumeMg": 5,
-    "priceUsd": 49.99,
-    "dosingLogic": "Research dose typically ranges from 2-5mg per week, divided into 2-3 administrations."
+    "slug": "10-syringes",
+    "name": "10 Syringes",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 8.99
   },
   {
-    "slug": "ghk-cu-50mg",
-    "name": "GHK-Cu",
-    "form": "50mg vial",
-    "category": "Anti-Aging",
-    "goal": "Skin Health",
-    "description": "Copper peptide that promotes collagen synthesis and skin regeneration. Research use only.",
-    "detailedDescription": "GHK-Cu is a copper-binding peptide that stimulates collagen and elastin production, promoting skin regeneration and wound healing. It has antioxidant properties and may help reduce signs of aging.",
-    "recommendedDoseMcg": 1000,
-    "vialVolumeMg": 50,
-    "priceUsd": 29.99,
-    "dosingLogic": "Research dose is typically 1-2mg per day, applied topically or administered subcutaneously."
+    "slug": "5a-hydroxy-laxogenin",
+    "name": "5a Hydroxy Laxogenin 45mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 45.99
   },
   {
-    "slug": "epithalon-10mg",
-    "name": "Epithalon",
-    "form": "10mg vial",
-    "category": "Anti-Aging",
-    "goal": "Skin Health",
-    "description": "Telomerase activator that may extend cellular lifespan. Research use only.",
-    "detailedDescription": "Epithalon is a synthetic peptide that activates telomerase, potentially extending cellular lifespan and promoting tissue regeneration. It has been studied for its anti-aging properties.",
-    "recommendedDoseMcg": 100,
-    "vialVolumeMg": 10,
-    "priceUsd": 89.99,
-    "dosingLogic": "Research dose is typically 100-200mcg per day for 10-20 days, followed by a break."
+    "slug": "ace-031",
+    "name": "Ace 031 1mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 69.99
   },
   {
-    "slug": "semax-1mg",
-    "name": "Semax",
-    "form": "1mg vial",
-    "category": "Cognitive",
-    "goal": "Mental Sharpness",
-    "description": "Nootropic peptide that enhances cognitive function and memory. Research use only.",
-    "detailedDescription": "Semax is a synthetic peptide that enhances cognitive function, memory, and learning capacity. It has neuroprotective properties and may improve focus and mental clarity.",
-    "recommendedDoseMcg": 600,
-    "vialVolumeMg": 1,
-    "priceUsd": 45.99,
-    "dosingLogic": "Research dose is typically 600-800mcg per day, administered intranasally or subcutaneously."
+    "slug": "ace-083",
+    "name": "Ace 083 1mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 109.99
   },
   {
-    "slug": "selank-1mg",
-    "name": "Selank",
-    "form": "1mg vial",
-    "category": "Cognitive",
-    "goal": "Mental Sharpness",
-    "description": "Anxiolytic peptide that reduces stress and improves cognitive performance. Research use only.",
-    "detailedDescription": "Selank is a synthetic peptide with anxiolytic and nootropic properties. It reduces stress and anxiety while improving cognitive performance and memory.",
-    "recommendedDoseMcg": 300,
-    "vialVolumeMg": 1,
-    "priceUsd": 42.99,
-    "dosingLogic": "Research dose is typically 300-500mcg per day, administered intranasally or subcutaneously."
+    "slug": "acetic-acid",
+    "name": "Acetic Acid ( AA ) .6% 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 14.99
   },
   {
-    "slug": "rad-140-10mg",
-    "name": "RAD-140",
-    "form": "10mg vial",
-    "category": "SARM",
-    "goal": "Physical Strength",
-    "description": "Selective androgen receptor modulator for muscle building. Research use only.",
-    "detailedDescription": "RAD-140 is a selective androgen receptor modulator (SARM) that promotes muscle growth and strength without the side effects of traditional anabolic steroids. It has high tissue selectivity.",
-    "recommendedDoseMcg": 10000,
-    "vialVolumeMg": 10,
-    "priceUsd": 79.99,
-    "dosingLogic": "Research dose is typically 10-20mg per day for 8-12 weeks, followed by a break."
+    "slug": "aicar-50mg",
+    "name": "AICAR 50mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 43.99
   },
   {
-    "slug": "lgd-4033-10mg",
-    "name": "LGD-4033",
-    "form": "10mg vial",
-    "category": "SARM",
-    "goal": "Physical Strength",
-    "description": "SARM that promotes lean muscle mass and strength gains. Research use only.",
-    "detailedDescription": "LGD-4033 is a selective androgen receptor modulator that promotes lean muscle mass and strength gains. It has been studied for its potential in treating muscle wasting conditions.",
-    "recommendedDoseMcg": 10000,
-    "vialVolumeMg": 10,
-    "priceUsd": 69.99,
-    "dosingLogic": "Research dose is typically 10-15mg per day for 8-12 weeks, followed by a break."
+    "slug": "buy-albuterol-5mg-per-ml-30ml",
+    "name": "Albuterol 5mg per ml 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 25.99
   },
   {
-    "slug": "aod-9604-5mg",
-    "name": "AOD-9604",
-    "form": "5mg vial",
-    "category": "Weight Loss",
-    "goal": "Weight Loss",
-    "description": "Fat-burning peptide derived from human growth hormone. Research use only.",
-    "detailedDescription": "AOD-9604 is a modified fragment of human growth hormone that promotes fat burning without the side effects of full HGH. It specifically targets fat cells and may help with weight loss.",
-    "recommendedDoseMcg": 300,
-    "vialVolumeMg": 5,
-    "priceUsd": 59.99,
-    "dosingLogic": "Research dose is typically 300-500mcg per day, administered subcutaneously."
+    "slug": "anastrozole-1mg-x-30ml",
+    "name": "Anastrozole 1mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 21.99
   },
   {
-    "slug": "dsip-1mg",
-    "name": "DSIP",
-    "form": "1mg vial",
-    "category": "Sleep",
-    "goal": "Sleep",
-    "description": "Delta sleep-inducing peptide that promotes natural sleep. Research use only.",
-    "detailedDescription": "DSIP (Delta Sleep-Inducing Peptide) promotes natural sleep by increasing delta wave activity in the brain. It may help improve sleep quality and duration.",
-    "recommendedDoseMcg": 100,
-    "vialVolumeMg": 1,
-    "priceUsd": 35.99,
-    "dosingLogic": "Research dose is typically 100-200mcg per day, administered before bedtime."
+    "slug": "aod-9604",
+    "name": "AOD 9604 5mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 36.99
   },
   {
-    "slug": "melanotan-ii-10mg",
-    "name": "Melanotan II",
-    "form": "10mg vial",
-    "category": "Tanning",
-    "goal": "Sleep",
-    "description": "Synthetic peptide that stimulates melanin production and may affect sleep. Research use only.",
-    "detailedDescription": "Melanotan II is a synthetic peptide that stimulates melanin production, leading to skin darkening. It also has effects on appetite and may influence sleep patterns.",
-    "recommendedDoseMcg": 1000,
-    "vialVolumeMg": 10,
-    "priceUsd": 49.99,
-    "dosingLogic": "Research dose is typically 1-2mg per day for tanning effects, with lower doses for sleep modulation."
+    "slug": "bacteriostatic-water-30ml",
+    "name": "Bacteriostatic Water 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 9.99
+  },
+  {
+    "slug": "bpc-157",
+    "name": "BPC 157 5mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 40.99
+  },
+  {
+    "slug": "cabergoline-0-5mg-x-30ml",
+    "name": "Cabergoline 0.5mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 69.99
+  },
+  {
+    "slug": "cjc-1295-no-dac-5mg",
+    "name": "CJC 1295 NO DAC 5MG",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 37.99
+  },
+  {
+    "slug": "cjc-1295-no-dac-5mg-bulk-buy-5-vials",
+    "name": "CJC 1295 NO DAC 5MG Bulk Buy  5 vials",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 150
+  },
+  {
+    "slug": "cjc-1295-wdac-5mg",
+    "name": "CJC 1295 W/DAC 5MG",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 43.99
+  },
+  {
+    "slug": "cjc-1295-wdac-5mg-bulk-buys-5-vials",
+    "name": "CJC 1295 W/DAC 5MG Bulk Buys 5 vials",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 199
+  },
+  {
+    "slug": "cjc-no-dac-ghrp-2-blend-2mg",
+    "name": "CJC No DAC & GHRP-2 Blend 2mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 30.99
+  },
+  {
+    "slug": "cjc-no-dac-ghrp-6-blend-2mg",
+    "name": "CJC No DAC & GHRP-6 Blend 2mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 30.99
+  },
+  {
+    "slug": "cjc-no-dac-5mg-with-ipamorelin-5mg",
+    "name": "CJC No DAC 5MG with Ipamorelin 5MG",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 58.99
+  },
+  {
+    "slug": "clenbuterol-200mcg-x-30ml",
+    "name": "Clenbuterol 200mcg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 25.99
+  },
+  {
+    "slug": "clomiphene-50mg-x-30ml",
+    "name": "Clomiphene 50mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 21.99
+  },
+  {
+    "slug": "dmaa",
+    "name": "DMAA 150mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 44.99
+  },
+  {
+    "slug": "dsip-delta-sleep-inducing-peptide-2mg",
+    "name": "DSIP (Delta Sleep Inducing Peptide) 5MG",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 29.99
+  },
+  {
+    "slug": "epithalon",
+    "name": "Epithalon 10mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 26.99
+  },
+  {
+    "slug": "exemestane-25mg-x-30ml",
+    "name": "Exemestane 25mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 32.99
+  },
+  {
+    "slug": "flubrotizolam-5mg-x-30ml",
+    "name": "Flubrotizolam .5mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 49.99
+  },
+  {
+    "slug": "fluclotizolam-5mg-x-30ml",
+    "name": "FLUCLOTIZOLAM .5mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 47.99
+  },
+  {
+    "slug": "follistatin-344",
+    "name": "Follistatin 344 1mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 99.99
+  },
+  {
+    "slug": "ghk-100mg",
+    "name": "GHK-Cu 100mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 99.99
+  },
+  {
+    "slug": "ghrp-2",
+    "name": "GHRP-2 5mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 17.99
+  },
+  {
+    "slug": "ghrp-6",
+    "name": "GHRP-6 5mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 17.99
+  },
+  {
+    "slug": "gonadorelin-5mg",
+    "name": "Gonadorelin (GnRH) 5mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 48.99
+  },
+  {
+    "slug": "gw-1516-10mg-x-30ml",
+    "name": "GW-1516, 10mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 57.99
+  },
+  {
+    "slug": "hexarelin-5mg",
+    "name": "Hexarelin 5mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 38.99
+  },
+  {
+    "slug": "hgh-fragment-176-191",
+    "name": "HGH Fragment 176-191 5mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 28.99
+  },
+  {
+    "slug": "igf-1-des",
+    "name": "IGF-1 DES 1mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 54.99
+  },
+  {
+    "slug": "igf-1-lr3-1mg",
+    "name": "IGF-1 LR3 1mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 53.99
+  },
+  {
+    "slug": "igf-2-1200iu",
+    "name": "IGF-2 1200iu",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 44.99
   },
   {
     "slug": "ipamorelin-5mg",
-    "name": "Ipamorelin",
-    "form": "5mg vial",
-    "category": "Growth Hormone",
-    "goal": "Recovery",
-    "description": "Growth hormone secretagogue that promotes natural GH release. Research use only.",
-    "detailedDescription": "Ipamorelin is a growth hormone secretagogue that stimulates the natural release of growth hormone from the pituitary gland. It may help with recovery, muscle growth, and anti-aging effects.",
-    "recommendedDoseMcg": 200,
-    "vialVolumeMg": 5,
-    "priceUsd": 39.99,
-    "dosingLogic": "Research dose is typically 200-300mcg per day, administered subcutaneously."
+    "name": "Ipamorelin 5mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 27.99
   },
   {
-    "slug": "cjc-1295-2mg",
-    "name": "CJC-1295",
-    "form": "2mg vial",
-    "category": "Growth Hormone",
-    "goal": "Recovery",
-    "description": "Long-acting growth hormone releasing hormone analog. Research use only.",
-    "detailedDescription": "CJC-1295 is a long-acting analog of growth hormone releasing hormone that stimulates the natural production of growth hormone. It has a longer half-life than other GHRH analogs.",
-    "recommendedDoseMcg": 1000,
-    "vialVolumeMg": 2,
-    "priceUsd": 55.99,
-    "dosingLogic": "Research dose is typically 1-2mg per day, administered subcutaneously."
+    "slug": "ketotifen",
+    "name": "Ketotifen 1mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 26.99
+  },
+  {
+    "slug": "l-carnitine-400mg-x-20ml",
+    "name": "L-Carnitine 400mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 39.99
+  },
+  {
+    "slug": "letrozole-2-5mg-x-30ml",
+    "name": "Letrozole 2.5mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 24.99
+  },
+  {
+    "slug": "lgd-4033-10mg-x-30ml",
+    "name": "Lgd 4033 10mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 41.99
+  },
+  {
+    "slug": "ll-37-5mg",
+    "name": "LL 37 5mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 59.98
+  },
+  {
+    "slug": "melanotan-2-mt-2",
+    "name": "Melanotan 2 10mg ( MT-2 )",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 22.99
+  },
+  {
+    "slug": "melanotan-i-mt-1",
+    "name": "Melanotan I ( MT-1 )",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 22.99
+  },
+  {
+    "slug": "melanotan-2-mt-2-5-vials",
+    "name": "Melanotan II 10mg ( MT-2 ) 5 Vials",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 99.99
+  },
+  {
+    "slug": "b12-1000mcg-x-20ml",
+    "name": "Methyl B12 1000mcg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 29.99
+  },
+  {
+    "slug": "mk-677-25mg-x-30ml",
+    "name": "Mk 677 25mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 69.99
+  },
+  {
+    "slug": "mk-2866-ostarine-33mg-x-30ml",
+    "name": "Mk-2866 33mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 59.99
+  },
+  {
+    "slug": "myostatin",
+    "name": "Myostatin 1mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 105.99
+  },
+  {
+    "slug": "noopept",
+    "name": "Noopept 20mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 22.99
+  },
+  {
+    "slug": "oral-syringes",
+    "name": "Oral Syringes",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 1
+  },
+  {
+    "slug": "oxytocin",
+    "name": "Oxytocin 5mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 24.99
+  },
+  {
+    "slug": "p21-50mg",
+    "name": "P21 50mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 65.99
+  },
+  {
+    "slug": "peg-mgf",
+    "name": "PEG MGF 2mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 33.99
+  },
+  {
+    "slug": "pramipexole-1mg-x-30ml",
+    "name": "Pramipexole 1mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 29.99
+  },
+  {
+    "slug": "pt-141",
+    "name": "PT-141 10mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 22.99
+  },
+  {
+    "slug": "pyrazolam-2mg-x-30ml",
+    "name": "Pyrazolam 2mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 59.99
+  },
+  {
+    "slug": "rad-140-10mg-x-30ml",
+    "name": "RAD 140 10mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 71.99
+  },
+  {
+    "slug": "s23",
+    "name": "S23 25mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 39.99
+  },
+  {
+    "slug": "sarms-s4-25mg-x-30ml",
+    "name": "SARMs S4 25mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 58.99
+  },
+  {
+    "slug": "selank-5mg",
+    "name": "SELANK 10mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 35.99
+  },
+  {
+    "slug": "selank",
+    "name": "Selank 2mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 22.99
+  },
+  {
+    "slug": "semax-30mg",
+    "name": "Semax 30mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 39.99
+  },
+  {
+    "slug": "sermorelin",
+    "name": "Sermorelin 2mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 32.99
+  },
+  {
+    "slug": "snap-8",
+    "name": "Snap 8 10mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 28
+  },
+  {
+    "slug": "t3-100mcg-x-30ml",
+    "name": "T3 100mcg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 19.99
+  },
+  {
+    "slug": "t4-400mcg-x-30ml",
+    "name": "T4 400mcg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 19.99
+  },
+  {
+    "slug": "tadalafil-30mg-x-30ml",
+    "name": "Tadalafil 30mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 24.99
+  },
+  {
+    "slug": "tamoxifen-20mg-x-30ml",
+    "name": "Tamoxifen 20mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 22.99
+  },
+  {
+    "slug": "tesamorelin",
+    "name": "Tesamorelin 2mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 19.99
+  },
+  {
+    "slug": "thymalin-100mg",
+    "name": "Thymalin 100mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 139.99
+  },
+  {
+    "slug": "thymosin-beta-4-tb-500-5mg",
+    "name": "Thymosin Beta 4 ( TB-500 ) 5mg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 29.99
+  },
+  {
+    "slug": "toremifene-40mg-x-30ml",
+    "name": "Toremifene 40mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 38.99
+  },
+  {
+    "slug": "triptorelin-gnrh-100mcg",
+    "name": "Triptorelin (GNRH ) 100mcg",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 31.99
+  },
+  {
+    "slug": "yk-11-10mg-x-30ml",
+    "name": "Yk 11 10mg x 30ml",
+    "form": "Unknown",
+    "category": "Peptide",
+    "description": "Research use only",
+    "priceUsd": 67.99
   }
-] 
+]
